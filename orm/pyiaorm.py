@@ -1,3 +1,10 @@
+#py_dbxia_orm.py
+#-------------------------
+#author:asytrick
+#website:github.com/ssmool
+#e-mail:eusmool@gmail.com
+#-------------------------
+
 import os
 import sqlite3
 from datetime import datetime
