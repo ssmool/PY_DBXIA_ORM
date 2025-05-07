@@ -1,3 +1,10 @@
+#py_dbxia_orm.py
+#-------------------------
+#author:asytrick
+#website:github.com/ssmool
+#e-mail:eusmool@gmail.com
+#-------------------------
+
 from orm import pyiaorm
 
 def startdb(database):
