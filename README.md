@@ -1,7 +1,13 @@
 ## 🧠 Python Database X-AI ORM
-![Python Database X-AI ORM Logo](./assets/pyiadbliteorm_xz.jpg)
+# PY_DBXIA_ORM  
+### Python Database X-AI ORM  
 
-**Version:** 1.0 Beta  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-PY__DBXIA__ORM-blue?logo=github)](https://github.com/ssmool/PY_DBXIA_ORM)  
+[![PyPI](https://img.shields.io/pypi/v/database_xaiorm?color=green&label=PyPI)](https://pypi.org/project/database-xaiorm/)  
+
+![Python Database X-AI ORM Logo](./assets/pyormxaidB.jpg)
+
+**Version:** 2.0 Beta  
 **Status:** Under Development  
 **Author:** #asytrick  
 **Website:** [github.com/PY_DBXIA_ORM](https://github.com/ssmool/PY_DBXIA_ORM)  
@@ -25,6 +31,34 @@ This project aims to accelerate relational database development with:
 - Model generation assistance using OpenAI prompts.
 - Designed for future extensibility with multiple database backends.
 
+---
+
+## 📌 About the Project  
+
+**PY_DBXIA_ORM** is a Python project that introduces a new approach to **ORM (Object Relational Mapping)** by integrating **X-AI (Crossover AI)** features for relational databases.  
+
+It combines **multi-database support**, automatic model generation, and **ANSI SQL query execution** with advanced data analysis, cryptography, and data manipulation tools.  
+
+An innovative research project created by **#asytrick**.  
+
+---
+
+## 🚀 Features  
+
+- ✅ **Crossover ORM** for SQLite (expanding support for ODBC, MySQL, PostgreSQL, and soon SQL Server).  
+- ✅ **ANSI SQL query execution** directly via ORM.  
+- ✅ **Analytics** with Pandas for data visualization and charts.  
+- ✅ **BLOB data handling** to insert files into SQLite.  
+- ✅ **Cryptography support** with **RSA** and **Fernet**.  
+- ✅ **Scaffolding** from `.pyaiporm` model files.  
+- ✅ **GTK GUI prototype** for visual database management.  
+- ✅ **Logging system** with HTML export.  
+- ✅ **X-AI ORM** for ER model generation (`.pyaiporm`) from text prompts.  
+- ✅ **ORM Migrate** with data import from **CSV, ODBC, MySQL, PostgreSQL** (SQL Server coming soon).  
+- ✅ External data visualization and integration.  
+
+---
+
 ##🔮 Roadmap
 
 ✅ Version 1.0 Beta
@@ -34,37 +68,90 @@ This project aims to accelerate relational database development with:
 - [x] AI-assisted model generation support.
 
 ##🔜 In Progress
-- [ ] **Pandas** integration for data analysis and exports.
-- [ ] **Scikit-learn** integration for machine learning based on online data.
-- [ ] **HTML historical logs** and file-based records.
-- [ ] **Automatic encryption** for sensitive fields.
-- [ ] Full support for **BLOB** fields (images, files, etc.).
+- [x] **Pandas** integration for data analysis and exports.
+- [x] **Scikit-learn** integration for machine learning based on online data.
+- [x] **HTML historical logs** and file-based records.
+- [x] **Automatic encryption** for sensitive fields.
+- [x] Full support for **BLOB** fields (images, files, etc.).
 
 ##🌐 Version 2.0 (Planned)
-- [ ] Lightweight built-in database engine.
-- [ ] Multi-database support via **ODBC**.
-- [ ] Compatibility with modern RDBMS (PostgreSQL, MySQL, etc.).
-- [ ] GUI for visualizing schemas and data.
+- [x] Lightweight built-in database engine.
+- [x] Multi-database support via **ODBC**.
+- [x] Compatibility with modern RDBMS (PostgreSQL, MySQL, etc.).
+- [x] GUI for visualizing schemas and data.
 
-##🛠️ Installation
+## 🛠 Instalação  
+
+The project is avaliable on the **PyPI**:  
 
 ```bash
-git clone https://github.com/ssmool/PY_DBXIA_ORM.git
-cd PY_DBXIA_ORM
-python install.py  # (if applicable)
+#pip install database_xaiorm==8.0 #comming soon with a review for deploy
 ```
+
+📂 Estrutura do Projeto
+
+    ./manual/README.md → Manual de uso e documentação.
+
+    orm/ → Módulos principais de ORM.
+
+    analytics/ → Funções de análise e gráficos com Pandas.
+
+    crypto/ → Implementações de segurança e criptografia.
+
+    db/ / → .sqlite database files
+
+    orm_migrate/ → Migração e importação de dados.
+
+    gui_enterprise/ → Protótipo em GTK GUI para manipulação visual.
+
+    logs/ → Gerenciamento de logs com exportação HTML.
+
+    blob_data/ / → Generate and Get Encoding for BLOB FILES to fill fields files register
+
+    dict/  → fill models to scaffolding .pyiaorm models orm
+
+    html_log/ → viewer logs and models with html views
+
+    orm_ai/ → prompt ai for generate models orm for .pyaiorm with basic rules
+
+
+📊  Roadmap (Próximas Versões)
+
+    🔹 Add supports with OpenAI for models generate by prompt
+
+    🔹 Allows speech voice commands
+
+    🔹 Task Schuedler for launch works automated with calendar
+
+    🔹 Policy and Criptografy automatic with RSA and Fernet
+
+    🔹 Add password for granted connection
+
+    🔹 API for on-line app connect and telnet service for management
+
+    🔹 Release forms and others with scaffolding with models /dict for web and app(crossover) with Kivy
+
+🌟 Destaques
+
+The PY_DBXIA_ORM like a noveu gen by ORMs thats union:
+
+    💡 Artificial Inteligencies
+
+    🔐 Advanced Securtiy
+
+    📊 Data Viewer and Analytics 
+
+    🔌 RDBMS Database Connection Avaliable
+
+
 
 **Requirements:**
 - Python 3.8+
 - SQLite (included by default with Python)
 - Additional dependencies to be listed as the project evolves.
 
-##🤝 Contributions
-
-Contributions are welcome! Feel free to open issues, submit pull requests, or reach out by email.
-
 ##📫 Contact
 
-- Author: **#asytrick**  
+💻 Autor: #asytrick
+📧 Contact: eusmool@gmail.com
 - Repository: [github.com/PY_DBXIA_ORM](https://github.com/ssmool/PY_DBXIA_ORM)  
-- Email: **eusmool@gmail.com**
