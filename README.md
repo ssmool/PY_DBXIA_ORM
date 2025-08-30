@@ -5,7 +5,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-PY__DBXIA__ORM-blue?logo=github)](https://github.com/ssmool/PY_DBXIA_ORM)  
 [![PyPI](https://img.shields.io/pypi/v/database_xaiorm?color=green&label=PyPI)](https://pypi.org/project/database-xaiorm/)  
 
-![Python Database X-AI ORM Logo](./assets/pyormxaidatabase.png)
+![Python Database X-AI ORM Logo](./assets/pyormxaidatabase_md.png)
 
 **Version:** 2.0 Beta  
 **Status:** Under Development  
