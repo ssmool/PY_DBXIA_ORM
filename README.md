@@ -131,7 +131,7 @@ The project is avaliable on the **PyPI**:
 
     🔹 Release forms and others with scaffolding with models /dict for web and app(crossover) with Kivy
 
-🌟 Destaques
+🌟 Noveu:
 
 The PY_DBXIA_ORM like a noveu gen by ORMs thats union:
 
