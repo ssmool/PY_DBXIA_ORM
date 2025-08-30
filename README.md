@@ -62,23 +62,23 @@ An innovative research project created by **#asytrick**.
 ##🔮 Roadmap
 
 ✅ Version 1.0 Beta
-- [x] Basic ORM for SQLite.
-- [x] Dictionary-based schema installation.
-- [x] Simplified one-command operations.
-- [x] AI-assisted model generation support.
+- [x]✅ Basic ORM for SQLite.
+- [x]✅ Dictionary-based schema installation.
+- [x]✅ Simplified one-command operations.
+- [x]✅ AI-assisted model generation support.
 
 ##🔜 In Progress
-- [x] **Pandas** integration for data analysis and exports.
-- [x] **Scikit-learn** integration for machine learning based on online data.
-- [x] **HTML historical logs** and file-based records.
-- [x] **Automatic encryption** for sensitive fields.
-- [x] Full support for **BLOB** fields (images, files, etc.).
+- [x]✅ **Pandas** integration for data analysis and exports.
+- [x]✅ **Scikit-learn** integration for machine learning based on online data.
+- [x]✅ **HTML historical logs** and file-based records.
+- [x]✅ **Automatic encryption** for sensitive fields.
+- [x]✅ Full support for **BLOB** fields (images, files, etc.).
 
 ##🌐 Version 2.0 (Planned)
-- [x] Lightweight built-in database engine.
-- [x] Multi-database support via **ODBC**.
-- [x] Compatibility with modern RDBMS (PostgreSQL, MySQL, etc.).
-- [x] GUI for visualizing schemas and data.
+- [x]✅ Lightweight built-in database engine.
+- [x]✅ Multi-database support via **ODBC**.
+- [x]✅ Compatibility with modern RDBMS (PostgreSQL, MySQL, etc.).
+- [x]✅ GUI for visualizing schemas and data.
 
 ## 🛠 Instalação  
 
