@@ -5,7 +5,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-PY__DBXIA__ORM-blue?logo=github)](https://github.com/ssmool/PY_DBXIA_ORM)  
 [![PyPI](https://img.shields.io/pypi/v/database_xaiorm?color=green&label=PyPI)](https://pypi.org/project/database-xaiorm/)  
 
-![Python Database X-AI ORM Logo](./assets/pyormxaidatabase_md.png)
+![Python Database X-AI ORM Logo](../assets/pyormxaidatabase_md.png)
 
 **Version:** 2.0 Beta  
 **Status:** Under Development  
@@ -210,5 +210,6 @@ ORM.py_create_model_table("_employee", "work TEXT NOT NULL, employee TEXT NOT NU
 💻 Autor: #asytrick
 📧 Contact: eusmool@gmail.com
 - Repository: [github.com/PY_DBXIA_ORM](https://github.com/ssmool/PY_DBXIA_ORM)  
+
 
 
