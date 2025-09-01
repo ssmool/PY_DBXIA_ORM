@@ -49,11 +49,12 @@ The library is modular, organized into the following components:
 
 ## ⚙️ Installation  
 
+The project is avaliable on the **PyPI**:  
+
 ```bash
-git clone https://github.com/ssmool/PY_DBXIA_ORM.git
-cd PY_DBXIA_ORM
-pip install -r requirements.txt
-````
+#pip install database_xaiorm==8.0 #comming soon with a review for deploy
+```
+
 
 ---
 
@@ -210,6 +211,7 @@ ORM.py_create_model_table("_employee", "work TEXT NOT NULL, employee TEXT NOT NU
 💻 Autor: #asytrick
 📧 Contact: eusmool@gmail.com
 - Repository: [github.com/PY_DBXIA_ORM](https://github.com/ssmool/PY_DBXIA_ORM)  
+
 
 
 
