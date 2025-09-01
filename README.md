@@ -80,7 +80,7 @@ An innovative research project created by **#asytrick**.
 - [x]✅ Compatibility with modern RDBMS (PostgreSQL, MySQL, etc.).
 - [x]✅ GUI for visualizing schemas and data.
 
-## 🛠 Instalação  
+## 🛠 Install:
 
 The project is avaliable on the **PyPI**:  
 
