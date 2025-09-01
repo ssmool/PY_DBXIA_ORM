@@ -152,7 +152,7 @@ The PY_DBXIA_ORM like a noveu gen by ORMs thats union:
 
 Manual:
 
-Check the complete manual for manage the ORM Library for Python: ![ORM X-AI DB](./manual/README.MD)
+Check the complete manual for manage the ORM Library for Python: [ORM X-AI DB - Manual](./manual/README.MD)
 
 ##📫 Contact
 
