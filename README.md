@@ -150,6 +150,10 @@ The PY_DBXIA_ORM like a noveu gen by ORMs thats union:
 - SQLite (included by default with Python)
 - Additional dependencies to be listed as the project evolves.
 
+Manual:
+
+Check the complete manual for manage the ORM Library for Python: ![ORM X-AI DB](./manual/README.MD)
+
 ##📫 Contact
 
 💻 Autor: #asytrick
