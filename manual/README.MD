@@ -209,8 +209,11 @@ ORM.py_create_model_table("_employee", "work TEXT NOT NULL, employee TEXT NOT NU
 ##📫 Contact
 
 💻 Autor: #asytrick
+
 📧 Contact: eusmool@gmail.com
+
 - Repository: [github.com/PY_DBXIA_ORM](https://github.com/ssmool/PY_DBXIA_ORM)  
+
 
 
 
